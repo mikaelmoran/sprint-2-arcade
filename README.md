@@ -1,5 +1,10 @@
 # Sprint 2 Arcade Screen Saver for macOS
 
+
+<img width="1536" height="1024" alt="Sprint 2 Arcade for Mac" src="https://github.com/user-attachments/assets/81f2a967-42c5-47f3-98f5-1795f9d76312" />
+
+
+
 An independent fan-made screen saver inspired by Atari/Kee Games Sprint 2
 (1976). This public package contains the finished macOS screen saver only;
 the Python source code is not included.
