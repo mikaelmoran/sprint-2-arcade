@@ -32,10 +32,6 @@ in this package. It opens the same settings panel directly.
 - **Arcade FX** — the complete 40-effect set;
 - **Custom** — individually selected effects.
 
-The `docs/screenshots` folder contains ten effect examples and
-`sprint2-concept-preview.png` is the package concept image for the GitHub
-project page. The repository also includes the scalable presentation board
-`docs/sprint2-concept.svg`.
 
 ## Security note
 
